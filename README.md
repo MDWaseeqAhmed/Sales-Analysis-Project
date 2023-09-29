@@ -37,4 +37,4 @@ I created columns for the data analysis on based on the questions I'll be solvin
   To solve this question I used 'combinations' and 'Counter' function to count the values which was ordered by the customer togeter.
   
 ### Question 5. What product sold the most? And Why was it sold?
-  To solve this question I used 'for' loop and 'line' chart to represent the findings. And i also used the help of stack-overflow to create the second chart which was quite hard to create.
+  To solve this question I used 'for' loop and 'box' plot with 'line' chart to represent the findings. And I also used the help of stack-overflow to create the second chart which was quite hard to create.
